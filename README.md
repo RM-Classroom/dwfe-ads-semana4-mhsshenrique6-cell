@@ -13,7 +13,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 - Proposta de projeto escolhida: Carros banidos de corrida
 
-- Breve descrição sobre seu projeto: Alguns carros de Le Mans foram tão avançados que acabaram levando a mudanças nas regras. Em vez de banir diretamente, a organização altera regulamentos para limitar desempenho, aumentar a segurança e manter a competição justa.
+- Breve descrição sobre seu projeto: Ao longo da história varios carros de Le Mans foram tão avançados que acabaram levando a mudanças nas regras. Em vez de banir diretamente, a organização altera regulamentos para limitar desempenho, aumentar a segurança e manter a competição justa.
 
 ## Print do(s) wireframe(s) criado
 > Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
