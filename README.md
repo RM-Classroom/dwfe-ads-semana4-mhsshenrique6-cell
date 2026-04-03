@@ -10,16 +10,20 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 - Nome: Marcelo Henrique Soares Silva
 - Matricula: 918309
-- Proposta de projeto escolhida: Equipes de Hypercar Le mans
-- Breve descrição sobre seu projeto: A categoria Hypercar é a principal classe das 24 Horas de Le Mans, reunindo as equipes e montadoras mais avançadas do automobilismo de endurance. Ela foi criada em 2021 para substituir a antiga LMP1 e hoje inclui dois tipos de carros: LMH e LMDh
+
+- Proposta de projeto escolhida: Carros banidos de corrida
+
+- Breve descrição sobre seu projeto: Alguns carros de Le Mans foram tão avançados que acabaram levando a mudanças nas regras. Em vez de banir diretamente, a organização altera regulamentos para limitar desempenho, aumentar a segurança e manter a competição equilibrada.
 
 ## Print do(s) wireframe(s) criado
 > Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
 
 <<  COLOQUE A IMAGEM AQUI >>
+<img src="image.png">
 
 
 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+<img src="imagi.png">
